@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "electron": "^1.8.3",
+    "nightmare": "^3.0.0"
+  }
+}
